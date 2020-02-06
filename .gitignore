@@ -1,0 +1,7 @@
+release/
+debug/
+x64/
+
+.qmake.stash
+*.pro.*
+*.vcx*
